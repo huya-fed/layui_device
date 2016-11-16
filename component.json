@@ -1,0 +1,6 @@
+{
+    "repos": "https://github.com/huya-fed/layui_device.git",
+    "version": "v1.0.0",
+    "name": "layui_device",
+    "main": "layui_device.js"
+}
